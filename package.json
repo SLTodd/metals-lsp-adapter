@@ -3,7 +3,7 @@
   "main": "./lib/main",
   "version": "0.0.1",
   "description": "Scala language server for Atom provided by Metals.",
-  "repository": "none",
+  "repository": "https://github.com/sltodd/metals-lsp-adapter",
   "license": "MIT",
   "engines": {
     "atom": ">=1.59.0"
