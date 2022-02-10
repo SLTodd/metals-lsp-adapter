@@ -4,7 +4,7 @@
 
 Minimal LSP adapter for [Atom](https://atom.io/) to replace the inactive [ide-scala](https://atom.io/packages/ide-scala) package.
 
-[!screenshot](image.png)
+![metals-lsp-adapter](https://user-images.githubusercontent.com/2996984/153314850-3405308c-0e90-468e-9eb5-282c64b2a656.png)
 
 ## Dependencies
 
